@@ -7,7 +7,7 @@ function srednia (a, b)
 
 function srednia_w (a, b)
 {
-	return 0.9*a+0.1*b;
+	return 0.2*a+0.8*b;
 }
 
 
